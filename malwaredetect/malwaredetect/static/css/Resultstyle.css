@@ -1,0 +1,29 @@
+body {
+  color:#f8f9fa !important;
+  background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+
+#contact {
+  background:#f8f9fa96;
+  padding:25px;
+  margin:50px 0;
+}
+
+#contact h1{
+  color: #2f2b61;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.table {
+  width: 95% !important; 
+  color: #e9ecef !important;
+  margin: auto;
+}
+
+.table-bordered {
+  border: 1px solid #e9ecef;
+}
+
+
